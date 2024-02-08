@@ -6,7 +6,7 @@
 public class Auto extends Veicolo {
 	private String tipo;
 	private int tariffaGiornaliera;
-	//ciao brother
+	//ciao brothero
 /**
  * 
  * @param targa targa auto
